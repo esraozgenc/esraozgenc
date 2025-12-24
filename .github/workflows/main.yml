@@ -4,35 +4,30 @@ permissions:
   contents: write
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
-  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      # 🔧 dist klasörünü oluştur
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      # 🐍 Snake üret
-      - name: Generate snake animation
+      # 🐍 Snake SVG üret (dist YOK)
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: esraozgenc
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: github-contribution-grid-snake.svg
 
-      # 🚀 output branch'ine deploy et
+      # 🚀 output branch'e push
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
