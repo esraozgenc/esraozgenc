@@ -17,4 +17,3 @@ Merhaba, Ben Esra<br>Mehmet Akif Ersoy Üniversitesi’nde Yönetim Bilişim Sis
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/esraozgenc/esraozgenc/output/github-contribution-grid-snake.svg" alt="snake animation" />
