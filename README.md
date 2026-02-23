@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba, Ben Esra<br>Mehmet Akif Ersoy Üniversitesi’nde Yönetim Bilişim Sistemleri 4. sınıfım.<br>Şu anda HTML, CSS, Pyhton, MSSQL dillerine orta seviyede hakimim.
+Merhaba, Ben Esra<br>Mehmet Akif Ersoy Üniversitesi’nde Yönetim Bilişim Sistemleri 4. sınıfım.<br>Şu anda HTML, CSS, JavaScript Pyhton, MSSQL dillerine orta seviyede hakimim.
 
 
 ## 🌐 Socials:
