@@ -5,7 +5,7 @@ I am a fourth-year student in the Management Information Systems department at M
 Currently, I have an intermediate level of proficiency in HTML, CSS, JavaScript, Python, and MSSQL.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraozgenc&label=Profile%20views&color=0e75b6&style=flat" alt="esraozgenc" /> </p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU4dmw1bG82cGlncWEweTR0N2xsZThhdHVvbGo0bzRidW5mNmx5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Coding" width=280 height=320 align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU4dmw1bG82cGlncWEweTR0N2xsZThhdHVvbGo0bzRidW5mNmx5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Coding" width=280 height=370 align="right">
 
 - 🔭 I’m currently working [as a frontend intern.](https://github.com/esraozgenc/staj-calismalari)
 
@@ -32,7 +32,6 @@ Currently, I have an intermediate level of proficiency in HTML, CSS, JavaScript,
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
