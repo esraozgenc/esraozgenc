@@ -44,5 +44,5 @@ Currently, I have an intermediate level of proficiency in HTML, CSS, JavaScript,
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+![snake gif](https://github.com/esraozgenc/esraozgenc/blob/output/github-contribution-grid-snake.gif)
 
