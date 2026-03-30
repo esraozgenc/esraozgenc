@@ -41,6 +41,7 @@ Currently, I have an intermediate level of proficiency in HTML, CSS, JavaScript,
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esraozgenc&theme=dark" alt="esraozgenc" />
 </p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
