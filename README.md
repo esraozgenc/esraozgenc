@@ -44,5 +44,9 @@ Currently, I have an intermediate level of proficiency in HTML, CSS, JavaScript,
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![snake gif](https://github.com/esraozgenc/esraozgenc/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esraozgenc/esraozgenc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esraozgenc/esraozgenc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/esraozgenc/esraozgenc/output/github-contribution-grid-snake.svg">
+</picture>
 
