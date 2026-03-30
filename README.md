@@ -38,8 +38,9 @@ Currently, I have an intermediate level of proficiency in HTML, CSS, JavaScript,
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esraozgenc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esraozgenc&" alt="esraozgenc" /></p>
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esraozgenc&theme=dark" alt="esraozgenc" />
+</p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
