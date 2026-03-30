@@ -36,10 +36,13 @@ Currently, I have an intermediate level of proficiency in HTML, CSS, JavaScript,
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=esraozgenc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esraozgenc&theme=dark" alt="esraozgenc" />
-</p>
+<div align="center">
+  <img height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraozgenc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+  <img width="35" />
+
+  <img height="167" src="https://github-readme-streak-stats.herokuapp.com/?user=esraozgenc&theme=dark" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
