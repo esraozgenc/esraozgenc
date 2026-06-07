@@ -9,13 +9,13 @@ Currently, I have an intermediate level of proficiency in HTML, CSS, JavaScript,
 
 - 🔭 I’m currently working [as a frontend intern.](https://github.com/esraozgenc/staj-calismalari)
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **frontend projects.**
 
 - 🤝 I’m looking for help with **learning data analysis.**
 
-- 💬 Ask me about **HTML,CSS.**
+- 💬 Ask me about **HTML,CSS,JavaScript.**
 
 - 📫 How to reach me **esraozgenc158@gmail.com**
 
