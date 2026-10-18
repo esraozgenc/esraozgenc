@@ -7,15 +7,10 @@ Currently, I have an intermediate level of proficiency in HTML, CSS, JavaScript,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraozgenc&label=Profile%20views&color=0e75b6&style=flat" alt="esraozgenc" /> </p>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU4dmw1bG82cGlncWEweTR0N2xsZThhdHVvbGo0bzRidW5mNmx5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Coding" width=280 height=370 align="right">
 
-- 🔭 I’m currently working [as a frontend intern.](https://github.com/esraozgenc/staj-calismalari)
-
-- 🌱 I’m currently learning **Flask**
-
-- 👯 I’m looking to collaborate on **frontend projects.**
 
 - 🤝 I’m looking for help with **learning data analysis.**
 
-- 💬 Ask me about **HTML,CSS,JavaScript.**
+- 💬 Ask me about **HTML,CSS,JavaScript,Python.**
 
 - 📫 How to reach me **esraozgenc158@gmail.com**
 
